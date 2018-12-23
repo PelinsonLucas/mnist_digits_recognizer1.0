@@ -7,3 +7,4 @@ draw the number and press recognize
 to repeat the process just press the back button from your browser
 
 The mnist dataset was trained in mathlab.
+Have fun!

@@ -1,6 +1,6 @@
 # mnist_digits_recognizer1.0
 Download and extract the files        
-Start CMD at mnist_digits_recognizer1.0/server      
+Start CMD at mnist_digits_recognizer1.0-master/server      
 Run the command: $ node index.js      
 open draw.html with your browser      
 draw the number and press recognize       

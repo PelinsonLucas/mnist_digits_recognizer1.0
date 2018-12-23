@@ -2,7 +2,7 @@
 Download and extract the files        
 Start CMD at mnist_digits_recognizer1.0/server      
 Run the command: node index.js      
-open the draw.html with your browser      
+open draw.html with your browser      
 draw the number and press recognize       
 to repeat the process just press the back button from your browser      
 

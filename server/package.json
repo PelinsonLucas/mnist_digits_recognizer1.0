@@ -1,0 +1,16 @@
+{
+  "name": "servidorjs",
+  "version": "1.0.0",
+  "description": "rest api to identify digits",
+  "main": "index.js",
+  "scripts": {
+    "Access-Control-Allow-Origin": "*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Pelinson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
